@@ -1,9 +1,0 @@
-#host setttings
-#Thu Aug 30 13:42:06 BDT 2018
-mail.smtp.starttls.enable=true
-mail.smtp.port=587
-mail.password=123artek321
-mail.user=artek.newgen@gmail.com
-mail.smtp.auth=true
-mail.smtp.host=smtp.gmail.com
-mail.count=5
